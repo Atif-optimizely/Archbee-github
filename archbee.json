@@ -1,0 +1,11 @@
+{
+  "root": "docfolderwithsummary",
+  "structure": {
+    "summary": "summary.md",
+    "assets": ".archbee/assets"
+  },
+  "customJS":"",
+  "customCSS":"* \n {  font-family: \"Comic Sans MS\", cursive, sans-serif; }",
+  "footerTemplate": "",
+  "headerIncludes": ""
+}
