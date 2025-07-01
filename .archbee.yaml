@@ -1,6 +1,6 @@
 root: Archbee-github
 structure:
-  summary: summary.md
+  summary: Summary.md
   assets: assets
 publishSpace: true
 headerIncludes:  |
