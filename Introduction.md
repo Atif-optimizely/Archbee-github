@@ -1,4 +1,4 @@
-# Introduction to Slate!
+# Introduction to Github Sync!
 
 [Slate](http://slatejs.org) is a *completely* customizable framework for building rich text editors. Testing again.
 
